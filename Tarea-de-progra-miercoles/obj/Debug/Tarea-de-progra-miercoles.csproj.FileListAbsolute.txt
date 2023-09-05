@@ -1,0 +1,5 @@
+C:\Users\rodolfo lovoz\Source\Repos\Progra-1-A2-2023-Tarea-Miercoles\Tarea-de-progra-miercoles\obj\Debug\Tarea-de-progra-miercoles.csproj.AssemblyReference.cache
+C:\Users\rodolfo lovoz\Source\Repos\Progra-1-A2-2023-Tarea-Miercoles\Tarea-de-progra-miercoles\obj\Debug\Tarea_de_progra_miercoles.Form1.resources
+C:\Users\rodolfo lovoz\Source\Repos\Progra-1-A2-2023-Tarea-Miercoles\Tarea-de-progra-miercoles\obj\Debug\Tarea_de_progra_miercoles.Properties.Resources.resources
+C:\Users\rodolfo lovoz\Source\Repos\Progra-1-A2-2023-Tarea-Miercoles\Tarea-de-progra-miercoles\obj\Debug\Tarea-de-progra-miercoles.csproj.GenerateResource.cache
+C:\Users\rodolfo lovoz\Source\Repos\Progra-1-A2-2023-Tarea-Miercoles\Tarea-de-progra-miercoles\obj\Debug\Tarea-de-progra-miercoles.csproj.CoreCompileInputs.cache
